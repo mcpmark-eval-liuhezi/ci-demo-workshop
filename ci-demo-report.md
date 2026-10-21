@@ -42,3 +42,8 @@ Steps in the job: "Set up job" → "Print greeting" (`echo "Hello from the CI de
 | `.github/workflows/demo-ci.yml` | added | +11 / -0 |
 
 (1 file changed, 1 commit, +11 additions, 0 deletions)
+
+## Outcome
+- Merge method used: **regular merge commit** (merge method "merge", not squash or rebase).
+- The PR **is merged**: PR #1 is closed with `merged: true`, merged at 2026-10-21T15:34:30Z.
+- Merge commit SHA: **11bc9cbc4e71e450250146bfe804592015d47d0f**
