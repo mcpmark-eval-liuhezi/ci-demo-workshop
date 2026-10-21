@@ -1,0 +1,11 @@
+name: Demo CI
+
+on:
+  pull_request:
+
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print greeting
+        run: echo "Hello from the CI demo workflow!"
